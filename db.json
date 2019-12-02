@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "details": [
+    {
+      "id": 3,
+      "name": "venkat",
+      "location": "guntu"
+    },
+    {
+      "id": "4",
+      "name": "shiva",
+      "location": "vijayawada"
+    },
+    {
+      "id": "9",
+      "name": "dhoni",
+      "location": "jarkhand"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
